@@ -1,6 +1,6 @@
 # CS50ai with Python
 
-## 📐Projects
+## 📌Projects
 <code>Degrees</code> <dl>Linking two actors through a movie🎬(that they have starred on), or sometimes through another actor who starred along side them both.
                          To predict the shortest route possible.</dl>
                          

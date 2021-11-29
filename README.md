@@ -16,4 +16,6 @@
                           based on the data given <b>.csv</b>
   
 <code>Crossword</code> <dl>Same old game you know⬛⬜</dl>
+
+<code>Shopping</code> <dl>✔️Predicting if the user/costumner would buy/just view the goods, products 🛍️
                           

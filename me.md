@@ -1,6 +1,6 @@
-# To Me 
-<h2>VScode</h2> <ol><li>Go to pages ;</li>
-                <li>Add your file and commit</li>
-                <li>go to Source code to view changes </li></ol>
+# To Me 🌑
+<h2>✏️VScode</h2> <dl>1️⃣ Go to pages ;</dl>
+                <dl>2️⃣ Add your file and commit</dl>
+                <dl>3️⃣ go to Source code to view changes </dl>
 
-<em> But at first switch to offline mode, then come back to repos</em> 
+<em>⭕ But at first switch to offline mode, then come back to repos❗</em> 

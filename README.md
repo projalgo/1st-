@@ -23,10 +23,5 @@
 
 
 
-## To Me 
-<code>VScode</code> <dl> Go to pages ;</dl>
-                    <dl> Add your file and commit</dl>
-                    <dl> go to Source code to view changes </dl>
-
-<dl> But at first switch to offline mode, then come back to repos</dl>  
+ 
                           
